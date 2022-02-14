@@ -1,5 +1,5 @@
 # Hand Gestures Classification
-Full details at www.joaobrito.net/projects/hand_gestures_classification
+*More details at www.joaopedrobrito.com/projects/hand_gestures_classification.*
 
 # Dataset Stats
 * Subjects: **4** (**3** for training + **1** for testing)
